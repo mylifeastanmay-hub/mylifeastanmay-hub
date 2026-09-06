@@ -22,21 +22,24 @@
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **🌐 Tanverse Portfolio** | Interactive 3D personal portfolio with immersive animations | React 18 · Three.js · React Three Fiber · GSAP | [GitHub](https://github.com/mylifeastanmay-hub/tanverse-portfolio) |
-| **🔍 FOUNDLY** | AI-powered lost & found platform with real-time matching | Next.js · Flask · SQLite · Google Maps API · Gemini AI | [GitHub](https://github.com/mylifeastanmay-hub/FOUNDLY) |
-| **🏨 Grand Azure Hotel** | Full-stack hotel management system with Flask backend | Flask · SQLAlchemy · PostgreSQL · ReportLab · APScheduler | [GitHub](https://github.com/mylifeastanmay-hub/grand-azure-hotel) |
+| **🛡️ Aegis Gateway** | Production-grade AI API security proxy with PII redaction, token-bucket rate limiting, semantic caching & live SSE dashboard | FastAPI · Redis · AsyncIO · Tailwind · Docker | [GitHub](https://github.com/mylifeastanmay-hub/aegis-gateway) |
+| **📄 AI ATS Resume Analyzer** | AI-powered resume fitment & ATS score engine with keyword gap analysis and automated PDF reports | Streamlit · Python · PyPDF · ReportLab · NLP | [GitHub](https://github.com/mylifeastanmay-hub/ai-resume-builder) |
+| **🕸️ MeshWeaver** | Zero-dependency peer-to-peer async task broker with Kademlia DHT & dynamic load routing | Python · AsyncIO · Kademlia DHT · Gossip Protocol | [GitHub](https://github.com/mylifeastanmay-hub/meshweaver) |
+| **🤖 FUTURE_PE_01** | Enterprise Prompt Engineering solutions for copywriting, viral UGC ads & SEO content clusters | LLMs · Prompt Architecture · Few-Shot · JSON Schema | [GitHub](https://github.com/mylifeastanmay-hub/FUTURE_PE_01) |
+| **🌐 Tanverse Portfolio** | Interactive 3D developer portfolio with immersive WebGL animations | React 18 · Three.js · React Three Fiber · GSAP | [GitHub](https://github.com/mylifeastanmay-hub/tanverse-portfolio) |
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Languages:   Python · JavaScript · TypeScript · SQL · HTML · CSS
-Frontend:    React · Next.js · Three.js · React Three Fiber · GSAP
-Backend:     Flask · Express · Node.js · RESTful APIs
-Databases:   PostgreSQL · SQLite · SQLAlchemy ORM
-AI/ML:       Scikit-learn · Pandas · Matplotlib · Gemini AI · OpenAI
-DevOps:      Git · GitHub · Vercel · GitHub Pages
+```text
+Languages:     Python · JavaScript · TypeScript · SQL · HTML5 · CSS3
+AI / ML:       LLMs · Prompt Engineering · Scikit-Learn · Pandas · NLP · Gemini AI
+Backend:       FastAPI · Flask · AsyncIO · REST APIs · Redis · WebSockets · SSE
+Distributed:   P2P Networking · Kademlia DHT · Gossip Protocols · Distributed Caching
+Frontend:      React · Next.js · Three.js · React Three Fiber · Streamlit · Tailwind · GSAP
+Databases:     PostgreSQL · SQLite · Redis · SQLAlchemy ORM
+DevOps & CI:   Git · GitHub Actions · Docker · Vercel · Linux
 ```
 
 ---
