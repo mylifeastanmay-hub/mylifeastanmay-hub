@@ -1,10 +1,13 @@
 <div align="center">
 
-# ğŸ‘‹ Hi, I'm Tanmay Atul Dhoot
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Tanmay%20Atul%20Dhoot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Distributed%20Systems%20Engineer&descFontSize=20&descAlignY=58" width="100%" />
 
-### AI/ML & Backend Software Engineer Â· Maharashtra, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Zero-Cloud+On-Device+AI+Systems+%F0%9F%9B%A1%EF%B8%8F;Developing+P2P+Decentralized+Brokers+%F0%9F%95%B8%EF%B8%8F;Creating+Interactive+3D+WebGL+Experiences+%F0%9F%8C%90;B.Tech+AIML+%40+SVKM's+NMIMS+Shirpur+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/ğŸŒ_Interactive_Resume-View_Live-6C63FF?style=for-the-badge)](https://mylifeastanmay-hub.github.io/resume/)
+[![Interactive 3D Portfolio](https://img.shields.io/badge/%F0%9F%8E%AE_ENTER_INTERACTIVE_3D_PORTFOLIO-0A0E1A?style=for-the-badge&logo=three.js&logoColor=00f2fe&labelColor=0f172a)](https://mylifeastanmay-hub.github.io/resume/)
+[![Interactive Resume](https://img.shields.io/badge/%F0%9F%8C%90_Live_Web_Resume-6C63FF?style=for-the-badge)](https://mylifeastanmay-hub.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmaydhoot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaydhoot)
 [![Email](https://img.shields.io/badge/Email-tanmayverse776%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmayverse776@gmail.com)
 
@@ -12,41 +15,65 @@
 
 ---
 
-## ğŸ§  About Me
+## ?? About Me
 
-> B.Tech AI/ML student at **SVKM's NMIMS Shirpur** (2024â€“2028), building production-scale software at the intersection of AI, interactive 3D web, and backend engineering.
+> B.Tech AI/ML student at **SVKM's NMIMS Shirpur** (2024–2028), building production-scale software at the intersection of on-device AI, distributed systems, and interactive 3D WebGL engineering.
 
 ---
 
-## ğŸš€ Featured Projects
+## ?? Flagship Projects
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **ğŸ›¡ï¸ Sentinel Swarm** | Zero-cloud real-time on-device AI security guardian intercepting digital arrest scams & deepfakes | ExecuTorch INT8 Â· PyTorch Â· Python Â· FastAPI Â· VAD | [GitHub](https://github.com/mylifeastanmay-hub/sentinel-swarm) |
-| **ğŸ›¡ï¸ Aegis Gateway** | Production-grade AI API security proxy with PII redaction, token-bucket rate limiting, semantic caching & live SSE dashboard | FastAPI Â· Redis Â· AsyncIO Â· Tailwind Â· Docker | [GitHub](https://github.com/mylifeastanmay-hub/aegis-gateway) |
-| **ğŸŒ¾ Anantam Agri Dashboard** | UAV aerial drone telemetry & precision crop disease analytics web dashboard | React 18 Â· Vite Â· Tailwind CSS Â· Recharts | [GitHub](https://github.com/mylifeastanmay-hub/anantam-agri-dashboard) |
-| **ğŸ“„ AI ATS Resume Analyzer** | AI-powered resume fitment & ATS score engine with keyword gap analysis and automated PDF reports | Streamlit Â· Python Â· PyPDF Â· ReportLab Â· NLP | [GitHub](https://github.com/mylifeastanmay-hub/ai-resume-builder) |
-| **ğŸ•¸ï¸ MeshWeaver** | Zero-dependency peer-to-peer async task broker with Kademlia DHT & dynamic load routing | Python Â· AsyncIO Â· Kademlia DHT Â· Gossip Protocol | [GitHub](https://github.com/mylifeastanmay-hub/meshweaver) |
-| **ğŸ¤– FUTURE_PE_01** | Enterprise Prompt Engineering solutions for copywriting, viral UGC ads & SEO content clusters | LLMs Â· Prompt Architecture Â· Few-Shot Â· JSON Schema | [GitHub](https://github.com/mylifeastanmay-hub/FUTURE_PE_01) |
-| **ğŸŒ Tanverse Portfolio** | Interactive 3D developer portfolio with immersive WebGL animations | React 18 Â· Three.js Â· React Three Fiber Â· GSAP | [GitHub](https://github.com/mylifeastanmay-hub/tanverse-portfolio) |
+| **??? Sentinel Swarm** | Zero-cloud real-time on-device AI security guardian intercepting digital arrest scams & deepfakes | ExecuTorch INT8 · PyTorch · Python · FastAPI · VAD | [GitHub](https://github.com/mylifeastanmay-hub/sentinel-swarm) |
+| **??? Aegis Gateway** | Production-grade AI API security proxy with PII redaction, token-bucket rate limiting, semantic caching & live SSE dashboard | FastAPI · Redis · AsyncIO · Tailwind · Docker | [GitHub](https://github.com/mylifeastanmay-hub/aegis-gateway) |
+| **?? Anantam Agri Dashboard** | UAV aerial drone telemetry & precision crop disease analytics web dashboard | React 18 · Vite · Tailwind CSS · Recharts | [GitHub](https://github.com/mylifeastanmay-hub/anantam-agri-dashboard) |
+| **?? AI ATS Resume Analyzer** | AI-powered resume fitment & ATS score engine with keyword gap analysis and automated PDF reports | Streamlit · Python · PyPDF · ReportLab · NLP | [GitHub](https://github.com/mylifeastanmay-hub/ai-resume-builder) |
+| **??? MeshWeaver** | Zero-dependency peer-to-peer async task broker with Kademlia DHT & dynamic load routing | Python · AsyncIO · Kademlia DHT · Gossip Protocol | [GitHub](https://github.com/mylifeastanmay-hub/meshweaver) |
+| **?? FUTURE_PE_01** | Enterprise Prompt Engineering solutions for copywriting, viral UGC ads & SEO content clusters | LLMs · Prompt Architecture · Few-Shot · JSON Schema | [GitHub](https://github.com/mylifeastanmay-hub/FUTURE_PE_01) |
+| **?? Tanverse Portfolio** | Interactive 3D developer portfolio with immersive WebGL animations | React 18 · Three.js · React Three Fiber · GSAP | [GitHub](https://github.com/mylifeastanmay-hub/tanverse-portfolio) |
 
 ---
 
-## ğŸ› ï¸ Tech Stack
+## ??? Tech Stack
 
-```text
-Languages:     Python Â· JavaScript Â· TypeScript Â· SQL Â· HTML5 Â· CSS3
-AI / ML:       LLMs Â· Prompt Engineering Â· Scikit-Learn Â· Pandas Â· NLP Â· Gemini AI
-Backend:       FastAPI Â· Flask Â· AsyncIO Â· REST APIs Â· Redis Â· WebSockets Â· SSE
-Distributed:   P2P Networking Â· Kademlia DHT Â· Gossip Protocols Â· Distributed Caching
-Frontend:      React Â· Next.js Â· Three.js Â· React Three Fiber Â· Streamlit Â· Tailwind Â· GSAP
-Databases:     PostgreSQL Â· SQLite Â· Redis Â· SQLAlchemy ORM
-DevOps & CI:   Git Â· GitHub Actions Â· Docker Â· Vercel Â· Linux
-```
+`	ext
+Languages:     Python · JavaScript · TypeScript · SQL · HTML5 · CSS3
+AI / ML:       ExecuTorch (INT8 Quantization) · PyTorch · Scikit-Learn · Pandas · NLP · Gemini AI
+Backend:       FastAPI · Flask · AsyncIO · REST APIs · Redis · WebSockets · Server-Sent Events (SSE)
+Distributed:   P2P Networking · Kademlia DHT · Gossip Protocols · Distributed Caching
+Frontend:      React 18 · Next.js · Three.js · React Three Fiber · Streamlit · Tailwind CSS · GSAP
+Databases:     PostgreSQL · SQLite · Redis · SQLAlchemy ORM
+DevOps & CI:   Git · GitHub Actions · Docker · Vercel · Linux · Windows
+`
 
 ---
 
-## ğŸ“Š GitHub Stats
+## ??? 3D Isometric Contribution Grid
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Grid" width="100%">
+  </picture>
+</div>
+
+---
+
+## ?? Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img alt="Contribution Snake" src="./dist/github-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## ?? GitHub Analytics
 
 <div align="center">
 
@@ -59,8 +86,8 @@ DevOps & CI:   Git Â· GitHub Actions Â· Docker Â· Vercel Â· Linux
 
 <div align="center">
 
-### ğŸ”— [View My Full Interactive Resume â†’](https://mylifeastanmay-hub.github.io/resume/)
+### ?? [Experience Full Interactive 3D WebGL Portfolio ?](https://mylifeastanmay-hub.github.io/resume/)
 
-*Built with passion for clean code, beautiful UIs, and intelligent systems.*
+*Built with passion for high-performance systems, on-device intelligence, and interactive 3D computing.*
 
 </div>
