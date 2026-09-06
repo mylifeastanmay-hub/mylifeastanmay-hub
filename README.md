@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Tanmay%20Atul%20Dhoot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Distributed%20Systems%20Engineer&descFontSize=20&descAlignY=58" width="100%" />
+<img src="./assets/banner.svg" alt="Tanmay Atul Dhoot - Banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Zero-Cloud+On-Device+AI+Systems+%F0%9F%9B%A1%EF%B8%8F;Developing+P2P+Decentralized+Brokers+%F0%9F%95%B8%EF%B8%8F;Creating+Interactive+3D+WebGL+Experiences+%F0%9F%8C%90;B.Tech+AIML+%40+SVKM's+NMIMS+Shirpur+%F0%9F%8E%93" alt="Typing SVG" />
