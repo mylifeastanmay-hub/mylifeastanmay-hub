@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="./assets/banner.svg" alt="Tanmay Atul Dhoot - Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/assets/banner.svg" alt="Tanmay Atul Dhoot - Banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Zero-Cloud+On-Device+AI+Systems+%F0%9F%9B%A1%EF%B8%8F;Developing+P2P+Decentralized+Brokers+%F0%9F%95%B8%EF%B8%8F;Creating+Interactive+3D+WebGL+Experiences+%F0%9F%8C%90;B.Tech+AIML+%40+SVKM's+NMIMS+Shirpur+%F0%9F%8E%93" alt="Typing SVG" />
@@ -53,9 +53,9 @@ DevOps & CI:   Git · GitHub Actions · Docker · Vercel · Linux · Windows
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Grid" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/profile-3d-contrib/profile-green-animate.svg">
+    <img src="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Grid" width="100%">
   </picture>
 </div>
 
@@ -65,9 +65,9 @@ DevOps & CI:   Git · GitHub Actions · Docker · Vercel · Linux · Windows
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img alt="Contribution Snake" src="./dist/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/dist/github-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mylifeastanmay-hub/mylifeastanmay-hub/main/dist/github-snake-dark.svg" width="100%">
   </picture>
 </div>
 
