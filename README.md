@@ -35,6 +35,15 @@
 
 ---
 
+## 📐 Engineering Highlights & System Design
+
+- **⚡ Zero-Cloud Edge AI**: Compiling PyTorch models into **ExecuTorch INT8 quantized binaries** (<155 KB), achieving `<3ms` localized inference on mobile hardware with 100% offline privacy compliance (DPDP Act 2023 / GDPR).
+- **🛡️ Distributed API Governance**: Engineering token-bucket distributed rate limiters using atomic Redis Lua scripts, sub-5ms SHA-256 semantic caching, and dynamic tenant spend quotas.
+- **🕸️ P2P Decentralized Compute**: Eliminating centralized broker dependencies (Celery/RabbitMQ) via a pure Python asynchronous compute mesh running a 160-bit **Kademlia DHT** and anti-entropy gossip load routing.
+- **🌾 Real-Time Geospatial Telemetry**: Developing multi-module analytics hubs in React 18, Vite, and Tailwind CSS for multispectral UAV aerial crop telemetry and disease analytics.
+
+---
+
 ## 🛠️ Tech Stack
 
 ```text
