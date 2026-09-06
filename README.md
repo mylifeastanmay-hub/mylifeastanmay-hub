@@ -22,7 +22,9 @@
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
+| **🛡️ Sentinel Swarm** | Zero-cloud real-time on-device AI security guardian intercepting digital arrest scams & deepfakes | ExecuTorch INT8 · PyTorch · Python · FastAPI · VAD | [GitHub](https://github.com/mylifeastanmay-hub/sentinel-swarm) |
 | **🛡️ Aegis Gateway** | Production-grade AI API security proxy with PII redaction, token-bucket rate limiting, semantic caching & live SSE dashboard | FastAPI · Redis · AsyncIO · Tailwind · Docker | [GitHub](https://github.com/mylifeastanmay-hub/aegis-gateway) |
+| **🌾 Anantam Agri Dashboard** | UAV aerial drone telemetry & precision crop disease analytics web dashboard | React 18 · Vite · Tailwind CSS · Recharts | [GitHub](https://github.com/mylifeastanmay-hub/anantam-agri-dashboard) |
 | **📄 AI ATS Resume Analyzer** | AI-powered resume fitment & ATS score engine with keyword gap analysis and automated PDF reports | Streamlit · Python · PyPDF · ReportLab · NLP | [GitHub](https://github.com/mylifeastanmay-hub/ai-resume-builder) |
 | **🕸️ MeshWeaver** | Zero-dependency peer-to-peer async task broker with Kademlia DHT & dynamic load routing | Python · AsyncIO · Kademlia DHT · Gossip Protocol | [GitHub](https://github.com/mylifeastanmay-hub/meshweaver) |
 | **🤖 FUTURE_PE_01** | Enterprise Prompt Engineering solutions for copywriting, viral UGC ads & SEO content clusters | LLMs · Prompt Architecture · Few-Shot · JSON Schema | [GitHub](https://github.com/mylifeastanmay-hub/FUTURE_PE_01) |
