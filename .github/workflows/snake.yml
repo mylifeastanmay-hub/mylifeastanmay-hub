@@ -28,4 +28,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/
           git commit -m "chore(snake): update animated contribution snake game" || exit 0
+          git pull --rebase origin main
           git push
